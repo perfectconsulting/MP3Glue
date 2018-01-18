@@ -1,4 +1,4 @@
-# MP3Join
+# MP3Glue
 An application to join multiple MP3 files together, with support for dynamic transcoding if one or more of the MP3 parts has a diffent bit rate, sample size or number of channels.
 
 The application uses the ID3 library for tag handeling, and NAuduo and NAudio.Lame for all encoding and transcoding.
